@@ -1,0 +1,7 @@
+preliminary/
+qualifier/
+
+.DS_Store
+.gitconfig
+
+requirements.txt

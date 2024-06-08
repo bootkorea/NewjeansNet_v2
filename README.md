@@ -13,7 +13,7 @@
 
 ## 교내 예선(Preliminary)
 
-- 주제: [생성 AI의 가짜(Fake) 음성 검출 및 탐지](https://www.kaggle.com/competitions/2024-jbnu-competition-revised)
+- 주제: [가짜(fake) 음성 식별 해결](https://www.kaggle.com/competitions/2024-jbnu-competition-revised)
 - 기간: 2024.05.13 ~ 2024.06.06
 - 결과: Public 2nd(Acc: 1.0), Private 2nd(Acc: 0.99992)
 

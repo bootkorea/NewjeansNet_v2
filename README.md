@@ -21,7 +21,7 @@
 
 ### Model
 
-- Rawnet3 [[model.py]](https://github.com/bootkorea/swuniv/preliminary/model.py)
+- <> [[model.py]](https://github.com/bootkorea/swuniv/preliminary/model.py)
 
 ### Conclusion
 

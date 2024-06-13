@@ -1,6 +1,6 @@
-# About
+# NewjeansNet_v2
 
-## NewjeansNet_v2
+## About
 
 - Deepfake, 생성형 AI로 변조된 음성 데이터를 효과적으로 탐지할 수 있는 `Attention` 기반 모델
 

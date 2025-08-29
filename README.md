@@ -21,10 +21,9 @@
 
 ### Model
 
-- <> [[model.py]](https://github.com/bootkorea/swuniv/preliminary/model.py)
+- ensemble (vgg19 + biLSTM) [[model.py]]()
 
 ### Conclusion
-
 - 예선 데이터셋이 생각보다 강건하지 않아, 매우 높은 Accuracy를 도출할 수 있었음.
 - `데이터 EDA`를 거의 하지 않고, `Data Augmentation` 과 `Build a new model & fine tuning` 만으로 높은 점수를 도출하였기에 더욱 높은 성능을 도출하는 모델을 만들 수 있을 것으로 여겨짐.
 
@@ -33,8 +32,11 @@
 - 대회: [2024 SW중심대학 디지털 경진대회 - AI부문](https://www.swuniv.kr/60/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=18303100&t=board)
 - 주제: [생성 AI의 가짜(Fake) 음성 검출 및 탐지](https://bit.ly/swuniv2024_ai)
 - 기간: 2024.07.01 ~ 2024.07.19
-- 결과:
+- 결과: Public 112th(Score: 0.33242), Private 112th(Acc: 0.33225) (Score는 0에 가까울수록 우수)
 
 ### Model
+- ensemble (vgg19 + biLSTM) [[model.py]]()
 
 ### Conclusion
+- 예선과 다른 데이터셋에 적합한 모델을 구축하지 못한 점이 저조한 성적의 원인으로 추정
+- 다만, Fine-tuning만으로 성능을 끌어올린 점을 감안하여 데이터 분석 기법과 더해졌을 때 더 나은 성능을 보일 가능성이 충분하다고 판단됨
